@@ -23,6 +23,8 @@ Unit tests are written using QTestLib. Tests include [the official test vectors]
 
 QBlowfish is known to work fine with Qt versions 4.8, 5.0 and 5.1, on Windows, Mac and Linux platforms (not all combinations have been tested, though). If you find it's not working in your setup, please [open an issue](https://github.com/roop/qblowfish/issues).
 
+[23/07/2017] - works fine with Qt 5.9.1, on Linux (16.04.3), Windows 10 (version 1703).
+
 ### License
 
 QBlowfish is published under the MIT license.
